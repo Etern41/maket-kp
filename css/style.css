@@ -25,7 +25,7 @@ body {
 }
 
 .header_bg {
-    background-image: url(./images/header-bg.png);
+    background-image: url(../images/header-bg.png);
     position: absolute;
     width: 1295px;
     height: 756px;
@@ -578,24 +578,24 @@ li {
 }
 
 .new_fire {
-    background-image: url(../images/fire.png);
+    background-image: url(../images//ref/fire_bg.png);
     grid-area: a;
     width: 550px;
     height: 618px;
 }
 
 .new_holly {
-    background-image: url(./images/ref/hollywood.png);
+    background-image: url(../images/ref/hollywood.png);
     grid-area: b;
 }
 
 .new_mortal {
-    background-image: url(./images/ref/mortal.png);
+    background-image: url(../images/ref/mortal.png);
     grid-area: c;
 }
 
 .new_sword {
-    background-image: url(./images/ref/sword.png);
+    background-image: url(../images/ref/sword.png);
     grid-area: d;
     width: 600px;
     height: 282px;
